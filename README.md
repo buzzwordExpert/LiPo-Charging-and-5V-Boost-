@@ -21,11 +21,14 @@ Only overcharge protection is supported.
 ![Back Copper Layer](/images/3D_Back.png)
 
 **PCB**
+
 **2 Layer Board** - GND pour on both planes.
 
 - Front Layer:
+
 ![Front Copper Layer](/images/F_Cu.png)
 
 - Back Layer:
+
 ![Front Copper Layer](/images/B_Cu.png)
 
